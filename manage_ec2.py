@@ -4,8 +4,8 @@ import boto3
 ec2 = boto3.resource(
     'ec2',
     region_name='us-east-1',
-    aws_access_key_id='AKIAWFIPSXZ53NNWS764',
-    aws_secret_access_key='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'
+    aws_access_key_id='KEY VALUE',
+    aws_secret_access_key='KEY VALUE'
 )
 
 # Using the existing EC2 instance ID
